@@ -13,11 +13,15 @@ public class Calculator {
     }
     
     public static int mul(int a, int b){
-	return 0;	
+	int producto;
+	producto = a*b;
+	return producto;	
     }
     
     public static int div(int a, int b){
-	return 0;	
+	int division;
+	division = a/b;
+	return division;	
     }
 
     public static int mod(int a, int b){
