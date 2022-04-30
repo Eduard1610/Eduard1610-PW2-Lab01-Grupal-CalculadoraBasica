@@ -161,14 +161,49 @@ Primer repositorio en GitHub
 - Actualizamos el repositorio remoto con git push origin master
 - Ahora podemos verificar github que nuestro repositorio se actualizó con el archivo local.
 
+Capturas de commits individuales:
+
+- Eduardo Franshua Durand Obando.
+- URL del repositorio: https://github.com/Eduard1610/PW2-Lab01.git
+<img src="Img/logEduardo.png">
+
+
+- Jordy Rolando Tejada Lazo.
+- URL del repositorio: https://github.com/jrolando19/Lab01-Individual.git
+<img src="Img/logJordy.png">
+
+
+- Michael Steve Hurtado Bejarano.
+- URL del repositorio: https://github.com/MichaelHB19/Pweb2Lab01Individual.git
+<img src="Img/logMichael.png">
+
+
+- Jean Carlo Leonel Chua Aguilar.
+- URL del repositorio: https://github.com/jchua21/PWEB2-01.git
+<img src="Img/logJeanCarlo.png">
+
 ## EJERCICIOS/PROBLEMAS PROPUESTOS
 - Cree una cuenta de usuario en github
 - Configure su cuenta de estudiante (https://education.github.com/pack).
 - Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un
 entero. (Forme grupos de 3 a 5 personas)
 
+### Desarrollo del Laboratorio
+
+- Creamos ramas para los colaboradores.
+<img src="Img/creacionRamasEjemplo.png">
+
+- Repetimos el proceso anterior para todas las ramas.
+<img src="Img/ramas.png">
+
+- Luego de que cada colaborador completara su función hicimos merge con sus respectivos pull request.
+<img src="Img/pullRequest.png">
+
+
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+  
+**- Porque permite un trabajo optimo en equipo, además de mostrar un registro del avance del estudiante y facilitar la revision de las actividades.
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 - https://guides.github.com/
